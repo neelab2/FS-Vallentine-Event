@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{31AFD0191736C2FB}fsvalentine_scripts/graphics/particles/anim.emat"
+ Author "andi"
+ ChangeDate 1033515084
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}
